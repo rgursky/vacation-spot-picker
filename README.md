@@ -16,5 +16,6 @@ After starting the application, the first person in your group can navigate the 
 "Geocode" will place a marker on the city and populate the textbox with the city and country. Once you have selected a city or country, click the "Add to List" button to add it to your list of vacation destinations. You can select as many cities
 and countries as you'd like. Once you're done, click the "Next Person" button and pass the control over to someone else to repeat the process. When everyone is finished, you can click "All Done" and a screen will show you what places you all
 (or at least some of you) would like to travel to! Clicking anywhere on the splash screen will start again.\
+![](https://github.com/rgursky/vacation-spot-picker/blob/master/demo.gif)
 \
 Happy travels!
